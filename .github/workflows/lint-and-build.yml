@@ -49,4 +49,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: daresekulovski/KIII5:latest
+          tags: daresekulovski/kiii5:latest
